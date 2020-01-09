@@ -55,5 +55,15 @@
 		<finalName>${project.artifactId}</finalName>
 	</build>
 
+	<distributionManagement>
+
+		<snapshotRepository>
+			<id>snapshot</id>
+			<name>Snapshot</name>
+			<url>http://18.224.53.241:8081/repository/snapshot/</url>
+		</snapshotRepository>
+
+	</distributionManagement>
+
 
 </project>
