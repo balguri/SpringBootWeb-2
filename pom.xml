@@ -59,7 +59,7 @@
 
 		<snapshotRepository>
 			<id>snapshot</id>
-			<name>Snapshot</name>
+			<name>snapshot</name>
 			<url>http://18.224.53.241:8081/repository/snapshot/</url>
 		</snapshotRepository>
 
