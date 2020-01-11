@@ -60,7 +60,7 @@
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshot</name>
-			<url>http://ec2-3-15-25-194.us-east-2.compute.amazonaws.com:8081/repository/snapshot/</url>
+			<url>http://18.191.233.200:8081/repository/snapshot</url>
 		</snapshotRepository>
 
 	</distributionManagement>
